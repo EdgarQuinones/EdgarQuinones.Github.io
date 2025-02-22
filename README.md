@@ -1,4 +1,3 @@
-# Edgar Quinones' GitHub
 **University of North Florida** | **Computer Science (Fall 2026)**  <br>**Interests:** Programming • Cybersecurity • Game Development  <br>**Roles:** OSEC Vice President • Cybersecurity Competitor
 
 ## 💻 Projects:  
