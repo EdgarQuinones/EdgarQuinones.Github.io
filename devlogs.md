@@ -14,4 +14,3 @@ A running journal of my Unity combat mechanics experiments, including hitstop, k
 
 [Read Devlog](https://edgarquinones.github.io/Combat-Systems/) · [Source Code](https://github.com/EdgarQuinones/Combat-Systems)
 
-I'll add journals for more projects as I write them.

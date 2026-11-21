@@ -8,11 +8,11 @@ permalink: /
 
 **Computer Science · University of North Florida**
 
-I'm a Computer Science student focused on **gameplay programming, game systems, and game development**. I enjoy turning game ideas into playable experiences—designing mechanics, building interconnected systems, and solving technical challenges.
+I'm a Computer Science student focused on **gameplay programming, game systems, and game development**. I enjoy turning game ideas into playable experiences, designing mechanics, building interconnected systems, and solving technical challenges.
 
 My experience spans solo projects, game jams, and leading collaborative development teams. I'm especially interested in how programming and design come together to make gameplay feel good.
 
-**Interests:** Gameplay Programming · Combat Design · Game Systems · Software Engineering
+**Interests:** Gameplay Programming · Tech Design · Combat Design · Game Systems · Software Engineering
 
 [GitHub Profile](https://github.com/EdgarQuinones) · [Play My Games on itch.io](https://edgarquinones.itch.io/)
 
