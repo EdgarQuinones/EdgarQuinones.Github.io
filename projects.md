@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-These are games I've worked on, from game jams to collaborative projects. I'll add gameplay footage and playable links as they're ready.
+These are games I've worked on, from game jams to collaborative projects. You can play my browser games on [itch.io](https://edgarquinones.itch.io/) or explore their source code on GitHub.
 
 ## Perrfect Fortune
 
@@ -12,7 +12,7 @@ These are games I've worked on, from game jams to collaborative projects. I'll a
 
 Explore a supernatural temple, solve cleansing puzzles, and battle spirits. Happiness and Karma Debt influence combat and progression. Created in approximately seven days for a game jam.
 
-[Source Code](https://github.com/EdgarQuinones/Perrfect-Fortune)
+[Play Game](https://edgarquinones.itch.io/perrfect-fortune) · [Source Code](https://github.com/EdgarQuinones/Perrfect-Fortune)
 
 ## Ground Zero
 
@@ -28,7 +28,7 @@ Defend the Forge against robotic enemy waves, earn currency, and buy upgrades. D
 
 Top-down naval combat with enemy waves, ship upgrades, cannon types, and explorable islands.
 
-[Source Code](https://github.com/moralesA179/PirateWarfare)
+[Play Game](https://edgarquinones.itch.io/pirate-warfare) · [Source Code](https://github.com/moralesA179/PirateWarfare)
 
 ## Falling in Fall
 
@@ -36,13 +36,13 @@ Top-down naval combat with enemy waves, ship upgrades, cannon types, and explora
 
 Climb a mysterious tree using a flashlight to navigate shifting platforms and environmental hazards.
 
-[Source Code](https://github.com/EdgarQuinones/Falling-in-Fall)
+[Play Game](https://edgarquinones.itch.io/falling-in-fall) · [Source Code](https://github.com/EdgarQuinones/Falling-in-Fall)
 
 ## Angle of Survival
 
 **2D Arena Survival Shooter · Solo Developer**
 
-A survival shooter with ricocheting attacks, made in roughly seven hours for Trijam #358. (Source link to be added if the repository becomes public.)
+A survival shooter with ricocheting attacks, made in roughly seven hours for Trijam #358. [Play Game](https://edgarquinones.itch.io/angle-of-survival) · Source repository is private.
 
 ## A Hop Away
 
@@ -50,4 +50,4 @@ A survival shooter with ricocheting attacks, made in roughly seven hours for Tri
 
 A colorful side-scrolling platformer focused on movement, jumping, and obstacle navigation.
 
-[Source Code](https://github.com/EdgarQuinones/A-Hop-Away)
+[Play Game](https://edgarquinones.itch.io/a-hop-away) · [Source Code](https://github.com/EdgarQuinones/A-Hop-Away)
