@@ -1,0 +1,12 @@
+title: Edgar Quinones
+description: Gameplay Programmer & Game Developer
+theme: minima
+
+url: "https://edgarquinones.github.io"
+baseurl: ""
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - devlogs.md
