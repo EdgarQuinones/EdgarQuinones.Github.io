@@ -14,7 +14,7 @@ My experience spans solo projects, game jams, and leading collaborative developm
 
 **Interests:** Gameplay Programming · Combat Design · Game Systems · Software Engineering
 
-[GitHub Profile](https://github.com/EdgarQuinones)
+[GitHub Profile](https://github.com/EdgarQuinones) · [Play My Games on itch.io](https://edgarquinones.itch.io/)
 
 ---
 
@@ -28,7 +28,7 @@ A supernatural temple adventure where fortune shapes each run. Solve cleansing p
 
 Created in approximately seven days, with interconnected Happiness and Karma Debt systems that influence gameplay.
 
-[Source Code](https://github.com/EdgarQuinones/Perrfect-Fortune)
+[Play Game](https://edgarquinones.itch.io/perrfect-fortune) · [Source Code](https://github.com/EdgarQuinones/Perrfect-Fortune)
 
 ---
 
