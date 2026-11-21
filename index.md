@@ -14,7 +14,7 @@ My experience spans solo projects, game jams, and leading collaborative developm
 
 **Interests:** Gameplay Programming · Tech Design · Combat Design · Game Systems · Software Engineering
 
-[GitHub Profile](https://github.com/EdgarQuinones) · [Play My Games on itch.io](https://edgarquinones.itch.io/)
+[GitHub Profile](https://github.com/EdgarQuinones) · [Play My Games on itch.io](https://edgarquinones.itch.io/) · [More About Me]({{ '/about/' | relative_url }})
 
 ---
 
@@ -42,6 +42,8 @@ I helped lead development with a nine-person team.
 
 [Source Code](https://github.com/Hack-Shack-Studios/Ground-Zero)
 
+[See All Games]({{ '/games/' | relative_url }})
+
 ---
 
 ## Featured Devlogs
@@ -51,3 +53,5 @@ I helped lead development with a nine-person team.
 Documenting my process of learning and experimenting with combat programming in Unity—from hitstop and knockback to attack feedback, design decisions, and refactoring.
 
 [Read Devlog](https://edgarquinones.github.io/Combat-Systems/) · [Source Code](https://github.com/EdgarQuinones/Combat-Systems)
+
+[See All Devlogs]({{ '/devlogs/' | relative_url }})
