@@ -42,7 +42,7 @@ I helped lead development with a nine-person team.
 
 [Source Code](https://github.com/Hack-Shack-Studios/Ground-Zero)
 
-[See all projects]({{ '/projects/' | relative_url }})
+**Explore more:** [See all projects]({{ '/projects/' | relative_url }})
 
 ---
 
