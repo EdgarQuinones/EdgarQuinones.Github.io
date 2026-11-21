@@ -10,6 +10,10 @@ I enjoy turning ideas into playable experiences: designing mechanics, building i
 
 I'm especially interested in **combat design, gameplay programming, and technical game design**—the point where how a game feels meets how its systems are implemented.
 
+---
+
+## Skills & Tools
+
 **Game development:** Unity, C#, Godot, C++  
 **Other programming:** Python, Java, C, Bash  
 **Tools:** Git, GitHub, Linux, Docker
