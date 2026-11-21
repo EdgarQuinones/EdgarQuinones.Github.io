@@ -8,5 +8,5 @@ baseurl: ""
 header_pages:
   - index.md
   - about.md
-  - projects.md
+  - games.md
   - devlogs.md
