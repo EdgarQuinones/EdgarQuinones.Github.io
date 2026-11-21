@@ -1,111 +1,90 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Edgar Quinones</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 2rem;
-      background-color: #0d1117;
-      color: #c9d1d9;
-    }
-    h1, h2 {
-      color: #58a6ff;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .projects a {
-      display: block;
-      margin: 0.5rem 0;
-    }
-    .socials img {
-      margin-right: 10px;
-    }
-    .tech-stack img {
-      margin: 4px;
-      vertical-align: middle;
-    }
-    .stats img {
-      max-width: 100%;
-    }
-  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Edgar Quinones — gameplay programming, game development, and technical design portfolio.">
+  <title>Edgar Quinones — Gameplay Programmer</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <header class="site-header">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="Edgar Quinones homepage"><span class="brand-mark">EQ</span> Edgar Quinones</a>
+      <nav aria-label="Main navigation">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="devlogs.html">Devlogs</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <section class="hero" aria-labelledby="hero-heading">
+        <div>
+          <span class="eyebrow">Game development portfolio</span>
+          <h1 id="hero-heading">Gameplay Programmer <span class="gradient-text">&amp; Game Developer.</span></h1>
+          <p class="hero-copy">I'm a Computer Science student at the University of North Florida who loves turning game ideas into playable experiences. I focus on gameplay systems, combat mechanics, and technical design.</p>
+          <div class="actions">
+            <a class="button primary" href="projects.html">Explore My Projects →</a>
+            <a class="button ghost" href="https://github.com/EdgarQuinones" target="_blank" rel="noopener noreferrer">GitHub Profile ↗</a>
+          </div>
+        </div>
+        <aside class="hero-panel" aria-label="Current work">
+          <div class="status">● Currently learning</div>
+          <div class="panel-overline">Development journal</div>
+          <h2>Combat Systems</h2>
+          <p>Learning to build satisfying action-game combat, one system at a time. I'm documenting the code, the design decisions, and what I would improve.</p>
+          <div class="topic-row"><span class="chip">Unity</span><span class="chip">C#</span><span class="chip">Hitstop</span><span class="chip">Combat design</span></div>
+          <a class="text-link" href="https://edgarquinones.github.io/Combat-Systems/">Follow the devlog →</a>
+        </aside>
+      </section>
 
-  <h1>Edgar Quinones</h1>
-  <p><strong>University of North Florida</strong> | <strong>Computer Science (Fall 2026)</strong></p>
-  <p><strong>Interests:</strong> Programming • Cybersecurity • Game Development</p>
-  <p><strong>Roles:</strong> OSEC Vice President • Cybersecurity Competitor</p>
+      <section class="section" aria-labelledby="featured-heading">
+        <div class="section-head">
+          <div><span class="eyebrow">Selected work</span><h2 id="featured-heading">Featured Projects</h2><p>A few projects that reflect the kind of games and systems I enjoy creating.</p></div>
+          <a class="text-link" href="projects.html">See all projects →</a>
+        </div>
+        <div class="cards">
+          <article class="project-card">
+            <!-- Replace the gradient artwork with your own image in styles.css when ready. -->
+            <div class="project-art fortune" role="img" aria-label="Placeholder graphic for Perrfect Fortune"><div><div class="art-hint">Action-puzzle · Unity</div><div class="art-title">Perrfect<br>Fortune</div></div></div>
+            <div class="card-body">
+              <span class="card-topline">7-day game jam · Unity / C#</span>
+              <h3>Perrfect Fortune</h3>
+              <p>A supernatural temple adventure with cleansing puzzles, spirit encounters, and connected Happiness, Karma, and fortune systems.</p>
+              <div class="card-links"><a href="https://github.com/EdgarQuinones/Perrfect-Fortune" target="_blank" rel="noopener noreferrer">Source Code ↗</a><a href="projects.html#perrfect-fortune">Project Details →</a></div>
+            </div>
+          </article>
+          <article class="project-card">
+            <div class="project-art ground" role="img" aria-label="Placeholder graphic for Ground Zero"><div><div class="art-hint">3D survival FPS · Team project</div><div class="art-title">Ground<br>Zero</div></div></div>
+            <div class="card-body">
+              <span class="card-topline">Project lead · 9-person team</span>
+              <h3>Ground Zero</h3>
+              <p>A wave-based FPS where players defend the Forge, fight robotic enemies, earn currency, and purchase upgrades to survive.</p>
+              <div class="card-links"><a href="https://github.com/Hack-Shack-Studios/Ground-Zero" target="_blank" rel="noopener noreferrer">Source Code ↗</a><a href="projects.html#ground-zero">Project Details →</a></div>
+            </div>
+          </article>
+        </div>
+      </section>
 
-  <div class="section projects">
-    <h2>💻 Projects</h2>
-    <a href="https://github.com/EdgarQuinones/shell-cpp"><strong>POSIX-Compliant Shell</strong></a>
-    <p>A shell written in C++ that interprets commands, runs external programs, and supports built-in commands like cd, pwd, and echo.</p>
+      <section class="section" aria-labelledby="journal-heading">
+        <div class="section-head"><div><span class="eyebrow">Behind the mechanics</span><h2 id="journal-heading">Development Journals</h2><p>The problems, experiments, and design decisions behind my work.</p></div><a class="text-link" href="devlogs.html">All devlogs →</a></div>
+        <article class="journal-card">
+          <div><div class="journal-icon" aria-hidden="true">⌘</div><span class="kicker">Unity · Combat programming</span><h3>Combat Systems</h3><p>Documenting experiments with hitstop, knockback, attack feedback, and combat design in Unity.</p></div>
+          <div class="actions"><a class="button primary" href="https://edgarquinones.github.io/Combat-Systems/">Read Devlog ↗</a><a class="button ghost" href="https://github.com/EdgarQuinones/Combat-Systems" target="_blank" rel="noopener noreferrer">Source Code ↗</a></div>
+        </article>
+      </section>
 
-    <a href="https://github.com/EdgarQuinones/Evolved-Time"><strong>Task Manager</strong></a>
-    <p>A Java-based task management app that prioritizes daily goals to enhance productivity.</p>
-
-    <a href="https://github.com/EdgarQuinones/Password-Manager"><strong>Password Manager</strong></a>
-    <p>A secure password manager built with Python.</p>
-
-    <a href="https://github.com/EdgarQuinones/Linux-CTF-Launcher"><strong>Linux CTF Launcher</strong></a>
-    <p>A Bash tool for quickly setting up Capture The Flag challenges on Linux.</p>
-
-    <a href="https://github.com/EdgarQuinones/Maze-Solver"><strong>Maze Solver</strong></a>
-    <p>A Java program that solves mazes using various algorithms.</p>
-
-    <a href="https://github.com/EdgarQuinones/Pong"><strong>Pong</strong></a>
-    <p>A Python reimplementation of the classic Pong game.</p>
-
-    <a href="https://github.com/EdgarQuinones/Snake"><strong>Snake</strong></a>
-    <p>A classic Snake game built with Python.</p>
-
-    <a href="https://github.com/Hack-Shack-Studios/Ground-Zero"><strong>FPS Survival Demo</strong></a>
-    <p>A wave-based FPS survival demo made in 3D with a team of 9, inspired by COD zombies.</p>
-  </div>
-
-  <div class="section socials">
-    <h2>🌐 Socials</h2>
-    <a href="https://discord.gg/aMqTftn">Discord</a> |
-    <a href="https://linkedin.com/in/edgarquinones">LinkedIn</a> |
-    <a href="mailto:quinones_edgar@proton.me">Email</a> |
-    <a href="https://github.com/EdgarQuinones">GitHub</a>
-  </div>
-
-  <div class="section tech-stack">
-    <h2>💻 Tech Stack</h2>
-    <p>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/godot-%23808080.svg?style=for-the-badge&logo=godot-engine" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-      <!-- Add or remove as needed -->
-    </p>
-  </div>
-
-  <div class="section stats">
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarquinones&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarquinones&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </div>
-
+      <section class="section" aria-labelledby="about-brief-heading">
+        <div class="wide-cta">
+          <div><span class="eyebrow">A little about me</span><h2 id="about-brief-heading" style="margin:12px 0 0">Code, design, and collaboration.</h2><p>I've worked on solo prototypes, game jams, and larger collaborative games. I'm especially interested in gameplay engineering and technical game design.</p></div>
+          <a class="button ghost" href="about.html">More About Me →</a>
+        </div>
+      </section>
+    </div>
+  </main>
+  <footer class="site-footer"><div class="container footer-content"><span>Built by Edgar Quinones · Hosted on GitHub Pages</span><div class="footer-links"><a href="https://github.com/EdgarQuinones" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.linkedin.com/in/edgar-quinones/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div></div></footer>
 </body>
 </html>
