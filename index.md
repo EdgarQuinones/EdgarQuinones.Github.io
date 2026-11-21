@@ -30,8 +30,6 @@ Created in approximately seven days, with interconnected Happiness and Karma Deb
 
 [Play Game](https://edgarquinones.itch.io/perrfect-fortune) · [Source Code](https://github.com/EdgarQuinones/Perrfect-Fortune)
 
----
-
 ### Ground Zero
 
 **3D First-Person Survival Shooter · Project Lead & Lead Developer**
