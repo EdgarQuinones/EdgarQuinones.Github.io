@@ -42,7 +42,9 @@ Climb a mysterious tree using a flashlight to navigate shifting platforms and en
 
 **2D Arena Survival Shooter · Solo Developer**
 
-A survival shooter with ricocheting attacks, made in roughly seven hours for Trijam #358. [Play Game](https://edgarquinones.itch.io/angle-of-survival) · Source repository is private.
+A survival shooter with ricocheting attacks, made in roughly seven hours for Trijam #358.
+
+[Play Game](https://edgarquinones.itch.io/angle-of-survival) · [Source Code](https://github.com/EdgarQuinones/Angle-of-Survival)
 
 ## A Hop Away
 
