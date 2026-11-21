@@ -18,7 +18,7 @@ My experience spans solo projects, game jams, and leading collaborative developm
 
 ---
 
-## Featured Projects
+## Featured Games 
 
 ### Perrfect Fortune
 
@@ -42,11 +42,9 @@ I helped lead development with a nine-person team.
 
 [Source Code](https://github.com/Hack-Shack-Studios/Ground-Zero)
 
-**Explore more:** [See all projects]({{ '/projects/' | relative_url }})
-
 ---
 
-## Development Journals
+## Featured Devlogs
 
 ### Combat Systems
 

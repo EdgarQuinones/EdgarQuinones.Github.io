@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Games
+permalink: /games/
 ---
 
 These are games I've worked on, from game jams to collaborative projects. You can play my browser games on [itch.io](https://edgarquinones.itch.io/) or explore their source code on GitHub.
